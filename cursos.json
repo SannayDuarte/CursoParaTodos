@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Atendimento ao Público",
+    "descricao": "Aprenda habilidades para atender clientes em lojas, empresas e outros estabelecimentos.",
+    "modalidade": "Online",
+    "gratuito": true
+  },
+  {
+    "id": 2,
+    "nome": "Serviços Gerais",
+    "descricao": "Conheça atividades de limpeza, conservação e organização de ambientes.",
+    "modalidade": "Online",
+    "gratuito": true
+  },
+  {
+    "id": 3,
+    "nome": "Auxiliar de Cozinha",
+    "descricao": "Aprenda noções de higiene, organização e preparação de alimentos.",
+    "modalidade": "Online",
+    "gratuito": true
+  },
+  {
+    "id": 4,
+    "nome": "Informática e Excel",
+    "descricao": "Desenvolva conhecimentos de informática e planilhas eletrônicas.",
+    "modalidade": "Online",
+    "gratuito": true
+  },
+  {
+    "id": 5,
+    "nome": "Programação",
+    "descricao": "Conheça os fundamentos da programação e da criação de sistemas.",
+    "modalidade": "Online",
+    "gratuito": true
+  },
+  {
+    "id": 6,
+    "nome": "Inglês",
+    "descricao": "Aprenda conhecimentos básicos de inglês para estudar e trabalhar.",
+    "modalidade": "Online",
+    "gratuito": true
+  }
+]
